@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "expense": "dinner",
+    "amount": 20,
+    "createdAt": "2025-03-02T22:56:03.197Z",
+    "updatedAt": "2025-02-02T22:56:03.198Z"
+  },
+  {
+    "id": 2,
+    "expense": "lunch",
+    "amount": 30,
+    "createdAt": "2025-03-02T22:56:40.909Z",
+    "updatedAt": "2025-02-02T22:56:40.909Z"
+  },
+  {
+    "id": 3,
+    "expense": "breakfast",
+    "amount": 20,
+    "createdAt": "2025-03-02T22:57:09.831Z",
+    "updatedAt": "2025-02-02T22:57:09.832Z"
+  },
+  {
+    "id": 4,
+    "expense": "provisions",
+    "amount": 35,
+    "createdAt": "2025-03-02T22:57:25.300Z",
+    "updatedAt": "2025-02-02T22:57:25.300Z"
+  },
+  {
+    "id": 5,
+    "expense": "bet",
+    "amount": 10,
+    "createdAt": "2025-02-02T23:03:16.943Z",
+    "updatedAt": "2025-02-02T23:03:16.943Z"
+  }
+]
